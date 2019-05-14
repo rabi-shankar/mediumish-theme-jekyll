@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+My name is Rabi shankar Mandi , people called me 'rabi' . I'm from JH, India.  Currently i'm pursuing my B.tech in Computer Science & Engineering  from National Institute of Science and Technology College in Berhampur, India. 
 
 As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
 
